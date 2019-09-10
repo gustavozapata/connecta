@@ -1,0 +1,16 @@
+.Header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* font-size: calc(10px + 2vmin); */
+
+  background-color: #f0f4ff;
+  background-color: var(--red);
+  background-color: var(--blue-light);
+}
+.Header h1 {
+  font-size: 2.5em;
+  font-weight: 900;
+  color: white;
+}

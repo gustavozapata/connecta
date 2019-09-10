@@ -1,0 +1,21 @@
+.ActionPost textarea {
+  resize: none;
+  width: 70%;
+  height: 80px;
+}
+.ActionPost .button-action {
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+}
+.button-action p {
+  margin: 1px;
+  font-size: 0.8em;
+}
+.ActionPost img {
+  width: 25px;
+}
+.ActionPost #dislike {
+  transform: rotate(180deg);
+  margin-bottom: -3px;
+}

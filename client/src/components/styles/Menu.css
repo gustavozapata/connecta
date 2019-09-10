@@ -1,0 +1,23 @@
+.Menu {
+  text-align: left;
+  width: 85%;
+  margin: 50px auto 0 auto;
+  padding: 1px;
+  /* border: 1px solid red; */
+}
+.Menu p {
+  display: inline-block;
+  margin-top: 100px;
+  font-weight: 900;
+  font-size: 1.4em;
+  color: var(--blue-dark);
+  transition: color 0.3s;
+}
+.Menu p:hover {
+  color: var(--blue-light);
+}
+.Menu img {
+  width: 40px;
+  margin: -11px 10px 0 0;
+  vertical-align: middle;
+}

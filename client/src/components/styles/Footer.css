@@ -1,0 +1,14 @@
+.Footer {
+  height: 300px;
+  background-color: var(--blue-dark);
+
+  color: #78a5be;
+  padding: 1px;
+}
+.Footer a {
+  color: var(--blue-light);
+}
+.Footer p {
+  color: white;
+  font-weight: 700;
+}
