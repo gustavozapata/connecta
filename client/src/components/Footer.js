@@ -27,7 +27,7 @@ function Footer() {
           Cisco
         </a>
       </p>
-      <h4>CONNECT &copy; 2019</h4>
+      <h4>CONNECTA &copy; 2019</h4>
     </div>
   );
 }
